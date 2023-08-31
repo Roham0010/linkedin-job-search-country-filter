@@ -1,7 +1,7 @@
-# linkedin-job-search-country-filter
+# LinkedIn job search country filter
 It will remove the job item within the given countries list from the LinkedIn search result.
 
-# How to use it?
+## How to use it?
 - Open the LinkedIn job search
 - Do your search
 - Open the browser developer tools (press F12 on the keyboard or from the menu -> tools select developer tools)
